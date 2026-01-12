@@ -23,12 +23,12 @@ The application demonstrates:
 
 ## ⚙️ Features
 
-✅ Browse a list of books
-✅ View book details
-✅ Read user reviews
-✅ Clean and minimal UI
-✅ Fully responsive design
-✅ Component-based architecture
+✅ Browse a list of books  
+✅ View book details  
+✅ Read user reviews  
+✅ Clean and minimal UI  
+✅ Fully responsive design  
+✅ Component-based architecture  
 ✅ Deployed on Netlify
 
 ---
